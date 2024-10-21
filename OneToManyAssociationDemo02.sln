@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyAssociationDemo02", "OneToManyAssociationDemo02\OneToManyAssociationDemo02.csproj", "{456EFC72-2F94-438F-BCB5-3CA5024F46D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456EFC72-2F94-438F-BCB5-3CA5024F46D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456EFC72-2F94-438F-BCB5-3CA5024F46D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456EFC72-2F94-438F-BCB5-3CA5024F46D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456EFC72-2F94-438F-BCB5-3CA5024F46D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9889DB8E-67EA-43BC-AA22-0DB0C97D9DC2}
+	EndGlobalSection
+EndGlobal
